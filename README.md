@@ -9,12 +9,6 @@ Criação do backend de um sistema de registro de usuários e notas. Esse projet
   <a href="#💻-projeto">Projeto</a>
 </p>
 
-<br>
-
-<p align="center">
-  <img alt="Projeto final" src="./assets/projeto.png" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
