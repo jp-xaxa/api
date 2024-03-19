@@ -12,7 +12,7 @@ class ContactController {
       throw new AppError("Esqueceu a mensagem!")
     }
 
-    response.json({ name, email, text })
+    return response.json({ name, email, text })
   }
 }
 
