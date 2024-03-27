@@ -19,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Métodos HTTP
 - Middlewares
 - Knex
+- Cors
 
 ## 💻 Projeto
 
